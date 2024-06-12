@@ -1,4 +1,3 @@
 Contact:
-
-rkulyassa@gmail.com (personal)
-rkulyassa@drew.edu (school)
+- rkulyassa@gmail.com (personal)
+- rkulyassa@drew.edu (school)
