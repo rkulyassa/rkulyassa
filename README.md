@@ -1,4 +1,4 @@
-A college student interested in mathematical optimization, computer hardware/embedded systems, and AI/ML applications.
+Always learning more and building better
 
 Contact:
 - rkulyassa@gmail.com (personal)
