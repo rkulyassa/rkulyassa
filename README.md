@@ -1,4 +1,4 @@
-Always learning more and building better
+Always learning and building
 
 Contact:
 - rkulyassa@gmail.com (personal)
